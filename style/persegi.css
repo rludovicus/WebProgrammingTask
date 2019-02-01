@@ -1,0 +1,181 @@
+#persegi{
+    border-radius: 8px;
+    background: rgb(0, 152, 255);
+    margin-left: 15px;
+    width: 1290px;
+    display: flex;
+    padding: 10px;
+    position: relative;
+    top: -20px;
+}
+
+#persegi2{
+    background: rgb(255, 187, 0);
+    width: 25px;
+    height: 20px;
+    display: flex;
+    padding: 5px;
+    position: relative;
+    top: -152px;
+    left: 30px;  
+}
+
+#persegi3{
+    background: rgb(0, 152, 255);
+    width: 28px;
+    height: 20px;
+    display: flex;
+    padding: 5px;
+    position: relative;
+    top: -164px;
+    left: 56px;   
+}
+
+#persegi4{
+    background: rgb(0, 193, 0);
+    width: 190px;
+    height: 120px;
+    display: flex;
+    padding: 10px;
+    position: relative;
+    top: -70px;
+    left: 710px;   
+}
+
+#persegi5{
+    background: rgb(255, 2, 16);
+    width: 190px;
+    height: 120px;
+    display: flex;
+    padding: 10px;
+    position: relative;
+    top: -60px;
+    left: 710px;   
+}
+
+#persegi6{
+    background: rgb(246, 163, 0);
+    width: 190px;
+    height: 120px;
+    display: flex;
+    padding: 10px;
+    position: relative;
+    top: -50px;
+    left: 710px;   
+}
+
+#persegi7{
+    background: rgb(255, 116, 24);
+    width: 190px;
+    height: 120px;
+    display: flex;
+    padding: 10px;
+    position: relative;
+    top: -490px;
+    left: 940px;
+}
+
+#persegi8{
+    background: rgb(0, 185, 227);
+    width: 190px;
+    height: 120px;
+    display: flex;
+    padding: 10px;
+    position: relative;
+    top: -480px;
+    left: 940px;
+}
+
+#persegi9{
+    background: rgb(0, 193, 0);
+    width: 190px;
+    height: 120px;
+    display: flex;
+    padding: 10px;
+    position: relative;
+    top: -470px;
+    left: 940px;
+}
+
+#persegi9{
+    background: rgb(0, 193, 0);
+    width: 190px;
+    height: 120px;
+    display: flex;
+    padding: 10px;
+    position: relative;
+    top: -470px;
+    left: 940px;
+}
+
+#persegi9{
+    background: rgb(0, 193, 0);
+    width: 190px;
+    height: 120px;
+    display: flex;
+    padding: 10px;
+    position: relative;
+    top: -470px;
+    left: 940px;
+}
+
+#picsizeA{
+    width:85px;
+    height:85px;
+    display: flex;
+    padding: 10px;
+    position: relative;
+    top: -900px;
+    left: 760px;
+}
+
+#picsizeD{
+    width:85px;
+    height:85px;
+    display: flex;
+    padding: 10px;
+    position: relative;
+    top: -860px;
+    left: 760px;
+}
+
+#picsizeM{
+    width:85px;
+    height:85px;
+    display: flex;
+    padding: 10px;
+    position: relative;
+    top: -810px;
+    left: 760px;
+}
+
+#picsizeC{
+    width:85px;
+    height:85px;
+    display: flex;
+    padding: 10px;
+    position: relative;
+    top: -1210px;
+    left: 990px;
+}
+
+#picsizeMa{
+    width:90px;
+    height:90px;
+    display: flex;
+    padding: 10px;
+    position: relative;
+    top: -1174px;
+    left: 983px;
+}
+
+#picsizeO{
+    width:85px;
+    height:85px;
+    display: flex;
+    padding: 10px;
+    position: relative;
+    top: -1130px;
+    left: 983px;
+}
+
