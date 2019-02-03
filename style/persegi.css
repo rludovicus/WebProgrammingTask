@@ -17,7 +17,7 @@
     padding: 5px;
     position: relative;
     top: -152px;
-    left: 30px;  
+    left: 30px;
 }
 
 #persegi3{
@@ -28,7 +28,7 @@
     padding: 5px;
     position: relative;
     top: -164px;
-    left: 56px;   
+    left: 56px;
 }
 
 #persegi4{
@@ -39,7 +39,7 @@
     padding: 10px;
     position: relative;
     top: -70px;
-    left: 710px;   
+    left: 710px;
 }
 
 #persegi5{
@@ -50,7 +50,7 @@
     padding: 10px;
     position: relative;
     top: -60px;
-    left: 710px;   
+    left: 710px;
 }
 
 #persegi6{
@@ -61,7 +61,7 @@
     padding: 10px;
     position: relative;
     top: -50px;
-    left: 710px;   
+    left: 710px;
 }
 
 #persegi7{
@@ -117,6 +117,24 @@
     position: relative;
     top: -470px;
     left: 940px;
+}
+
+#persegi10{
+  background: rgb(210, 210, 210);
+  width: 2px;
+  height: 456px;
+  position: absolute;
+  top: 151px;
+  left: 700px;
+}
+
+#persegi11{
+  background: rgb(210, 210, 210);
+  width: 1290px;
+  height: 3px;
+  position: absolute;
+  top: 630px;
+  margin-left: 15px;
 }
 
 #picsizeA{
@@ -178,4 +196,3 @@
     top: -1130px;
     left: 983px;
 }
-
