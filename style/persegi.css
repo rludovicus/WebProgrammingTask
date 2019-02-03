@@ -73,6 +73,7 @@
     position: relative;
     top: -490px;
     left: 940px;
+
 }
 
 #persegi8{
@@ -95,28 +96,7 @@
     position: relative;
     top: -470px;
     left: 940px;
-}
 
-#persegi9{
-    background: rgb(0, 193, 0);
-    width: 190px;
-    height: 120px;
-    display: flex;
-    padding: 10px;
-    position: relative;
-    top: -470px;
-    left: 940px;
-}
-
-#persegi9{
-    background: rgb(0, 193, 0);
-    width: 190px;
-    height: 120px;
-    display: flex;
-    padding: 10px;
-    position: relative;
-    top: -470px;
-    left: 940px;
 }
 
 #persegi10{
@@ -196,3 +176,14 @@
     top: -1130px;
     left: 983px;
 }
+
+#people {
+    width: 250px;
+    height: 250px;
+    display: flex;
+    position: relative;
+    top:-1374px;
+    left: 350px;
+}
+
+
